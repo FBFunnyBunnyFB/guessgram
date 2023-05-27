@@ -1,0 +1,33 @@
+{
+  "name": "guessgram",
+  "version": "0.1.0",
+  "description": "Telegram bot as engaging mini-game where users guess the authors of different messages, testing their knowledge and competing for high scores.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npm update && node index"
+  },
+  "keywords": [
+    "bot",
+    "guess",
+    "telegram",
+    "mini-game",
+    "mini game",
+    "guessgram",
+    "telegram bot"
+  ],
+  "author": "Funny Bunny",
+  "license": "MIT",
+  "dependencies": {
+    "telebunny": "~0.8.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FBFunnyBunnyFB/guessgram.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FBFunnyBunnyFB/guessgram/issues"
+  },
+  "homepage": "https://github.com/FBFunnyBunnyFB/guessgram#readme"
+}

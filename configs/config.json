@@ -1,0 +1,12 @@
+{
+    "bot_token": "<YOUR_BOT_TOKEN_HERE>",
+    "session_update_frequency": 5000,
+    "session_answer_duration": 15000,
+    "session_leaderboard_delay": 5000,
+    "button_row_length": 2,
+    "data_file_path": "data/result.json",
+    "data_sender_override": {
+        "User 1": "Ethan",
+        "User 2": "Olivia"
+    }
+}

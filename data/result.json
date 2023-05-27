@@ -1,0 +1,12 @@
+{
+    "messages": [
+        {
+            "from": "User 1",
+            "text": "Hi there"
+        },
+        {
+            "from": "User 2",
+            "text": "Bye"
+        }
+    ]
+}
